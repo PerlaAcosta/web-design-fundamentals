@@ -1,6 +1,12 @@
 body {
     background-color: #A63429;
 }
+.container{
+  width: 800px;
+  border: 1px solid #000000;
+  padding: 20px;
+  margin: 0 auto 0 auto
+}
 
 .red-box {
     width: 200px;
